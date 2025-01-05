@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+   	"item": "tfc:metal/double_sheet/brass"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/cylinder/brass",
+    "count": 1
+  },
+  "tier": 2,
+  "rules": [
+    "draw_any",
+    "punch_second_last",
+    "draw_any"
+  ]
+}

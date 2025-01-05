@@ -1,0 +1,37 @@
+{
+	"item.tfcdivingbell.leather_hose" : "Leather Hose",
+	"item.tfcdivingbell.parts.goggles.brass" : "Brass Goggles (Incomplete)",
+	"item.tfcdivingbell.parts.snorkel.brass" : "Brass Snorkel (Incomplete)",
+	"item.tfcdivingbell.snorkels.brass" : "Brass Snorkel",
+	"item.tfcdivingbell.parts.diving_helmet_half.brass" : "Brass Diving Helm (Half)",
+	"item.tfcdivingbell.parts.diving_helmet.brass" : "Brass Diving Helm (Incomplete)",
+	"item.tfcdivingbell.diving_helmets.brass" : "Brass Diving Helm",
+	"item.tfcdivingbell.parts.cylinder.brass" : "Brass Cylinder",
+	"item.tfcdivingbell.parts.tank.brass" : "Brass Air Tank (Incomplete)",
+	"item.tfcdivingbell.airtanks.brass" : "Brass Air Tank",
+	
+	"item.tfcdivingbell.parts.goggles.rose_gold" : "Rose Gold Goggles (Incomplete)",
+	"item.tfcdivingbell.parts.snorkel.rose_gold" : "Rose Gold Snorkel (Incomplete)",
+	"item.tfcdivingbell.snorkels.rose_gold" : "Rose Gold Snorkel",
+	
+	"item.tfcdivingbell.parts.goggles.sterling_silver" : "Sterling Silver Goggles (Incomplete)",
+	"item.tfcdivingbell.parts.snorkel.sterling_silver" : "Sterling Silver Snorkel (Incomplete)",
+	"item.tfcdivingbell.snorkels.sterling_silver" : "Sterling Silver Snorkel",
+	
+	
+	"item.tfcdivingbell.parts.cylinder.steel" : "Steel Cylinder",
+	"item.tfcdivingbell.parts.tank.steel" : "Steel Air Tank (Incomplete)",
+	"item.tfcdivingbell.airtanks.steel" : "Steel Air Tank",
+	
+	"item.tfcdivingbell.parts.cylinder.black_steel" : "Black Steel Cylinder",
+	"item.tfcdivingbell.parts.tank.black_steel" : "Black Steel Air Tank (Incomplete)",
+	"item.tfcdivingbell.airtanks.black_steel" : "Black Steel Air Tank",
+	
+	"item.tfcdivingbell.parts.cylinder.blue_steel" : "Blue Steel Cylinder",
+	"item.tfcdivingbell.parts.tank.blue_steel" : "Blue Steel Air Tank (Incomplete)",
+	"item.tfcdivingbell.airtanks.blue_steel" : "Blue Steel Air Tank",
+	
+	"item.tfcdivingbell.parts.cylinder.red_steel" : "Red Steel Cylinder",
+	"item.tfcdivingbell.parts.tank.red_steel" : "Red Steel Air Tank (Incomplete)",
+	"item.tfcdivingbell.airtanks.red_steel" : "Red Steel Air Tank"
+}

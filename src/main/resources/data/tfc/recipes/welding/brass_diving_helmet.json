@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/diving_helmet_half/brass"
+  },
+  "second_input": {
+    "item": "tfcdivingbell:parts/diving_helmet_half/brass"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/diving_helmet/brass"
+  },
+  "tier": 2
+}

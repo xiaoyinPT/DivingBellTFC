@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+   	"item": "tfc:metal/double_sheet/brass"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/diving_helmet_half/brass",
+    "count": 1
+  },
+  "tier": 2,
+  "rules": [
+    "punch_any",
+    "punch_second_last",
+    "shrink_any"
+  ]
+}

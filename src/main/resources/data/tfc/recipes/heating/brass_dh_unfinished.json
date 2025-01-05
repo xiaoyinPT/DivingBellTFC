@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfcdivingbell:parts/diving_helmet/brass"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/brass",
+    "amount": 800
+  },
+  "temperature": 930
+}

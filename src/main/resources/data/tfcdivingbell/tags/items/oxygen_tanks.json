@@ -1,0 +1,10 @@
+{
+	"replace": false,
+  	"values": [
+    	"tfcdivingbell:airtanks/brass",
+    	"tfcdivingbell:airtanks/steel",
+    	"tfcdivingbell:airtanks/black_steel",
+    	"tfcdivingbell:airtanks/blue_steel",
+    	"tfcdivingbell:airtanks/red_steel"
+  	]
+}

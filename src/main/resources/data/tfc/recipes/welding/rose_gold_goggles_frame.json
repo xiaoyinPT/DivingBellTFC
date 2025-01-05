@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/goggles/rose_gold"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/rose_gold"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/snorkel/rose_gold"
+  },
+  "tier": 2
+}

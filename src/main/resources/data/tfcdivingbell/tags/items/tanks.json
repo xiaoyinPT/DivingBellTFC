@@ -1,0 +1,10 @@
+{
+	"replace": false,
+  	"values": [
+    	"tfcdivingbell:parts/tank/brass",
+    	"tfcdivingbell:parts/tank/steel",
+    	"tfcdivingbell:parts/tank/black_steel",
+    	"tfcdivingbell:parts/tank/blue_steel",
+    	"tfcdivingbell:parts/tank/red_steel"
+  	]
+}

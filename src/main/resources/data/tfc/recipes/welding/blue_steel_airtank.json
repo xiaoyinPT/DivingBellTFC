@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/tank/blue_steel"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/blue_steel"
+  },
+  "result": {
+    "item": "tfcdivingbell:airtanks/blue_steel"
+  },
+  "tier": 6
+}

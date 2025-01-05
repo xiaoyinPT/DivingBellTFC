@@ -1,0 +1,6 @@
+{
+	"parent": "tfcdivingbell:item/air_tank",
+	"textures": {
+		"1": "tfcdivingbell:item/airtanks/red_steel"
+	}
+}

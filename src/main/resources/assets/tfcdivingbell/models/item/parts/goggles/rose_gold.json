@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "tfcdivingbell:item/parts/goggles/rose_gold"
+	}
+}

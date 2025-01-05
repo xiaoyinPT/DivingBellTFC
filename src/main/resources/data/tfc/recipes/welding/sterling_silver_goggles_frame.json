@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/goggles/sterling_silver"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/sterling_silver"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/snorkel/sterling_silver"
+  },
+  "tier": 2
+}

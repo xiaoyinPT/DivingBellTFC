@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcdivingbell:parts/snorkel/rose_gold"
+    },
+    {
+     "item": "tfc:lens"
+    }
+  ],
+  "result": {
+    "item": "tfcdivingbell:snorkels/rose_gold"
+  }
+}

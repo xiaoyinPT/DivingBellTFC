@@ -1,0 +1,39 @@
+{
+	"name": "Shallow Diving",
+	"category": "tfc:mechanics",
+	"icon": "tfcdivingbell:snorkels/brass",
+	"pages" : [
+	{
+		"type": "patchouli:text",
+		"text": "Diving in shallow waters can be very profitable, from javelin fishing to digging for ore deposits. However, the time you can spend down there is very limited."
+	},
+	{
+		"type": "patchouli:text",
+		"text": "This entry talks about diving in very shallow, 5 meter deep waters. There are two items that can help you dive for longer periods of time and recover air from underwater!"
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "breathing_reeds",
+      "item": "tfc:ceramic_blowpipe",
+      "title": "Breathing Reed",
+      "text": "While not a reed per se, a blowpipe or ceramic blowpipe, when held on your offhand, allow you to breathe from up to two meters deep water. This means your breath will recover slowly as you approach that altitude." 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "The ceramic pipe is the only available option for diving aid before you can make Brass and Bronze."
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "snorkels",
+      "item": "tfcdivingbell:snorkels/brass",
+      "title": "Snorkeling",
+      "text": "When you have access to Bronze, you can make a brass, rose gold or sterling silver snorkel on your anvil by making a pair of Goggles, welding them with a Rod of that material, and then adding some Glass Lenses to the resulting frame." 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "The Snorkel is then equipped on your head, providing you with air to a maximum depth of 3 meters from the surface. Better than a reed, as it frees your off-hand for other stuff, and has a one meter increased range!"
+	}
+	]
+	,
+	"read_by_default": true
+}

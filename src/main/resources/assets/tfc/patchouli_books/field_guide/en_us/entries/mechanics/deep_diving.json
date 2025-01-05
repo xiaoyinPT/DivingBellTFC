@@ -1,0 +1,46 @@
+{
+	"name": "Deeper Diving",
+	"category": "tfc:mechanics",
+	"icon": "tfcdivingbell:diving_helmets/brass",
+	"pages" : [
+	{
+      "type": "patchouli:spotlight",
+      "anchor": "diving_helm",
+      "item": "tfcdivingbell:diving_helmets/brass",
+      "title": "Diving Helmet",
+      "text": "For Diving deeper than 5 meters from the surface, if becomes harder to just rely on a Snorkel. A Diving Helmet with some off-hand equipment, allows you to go much deeper." 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "The Brass Diving Helmet is a helmet that is made by forging Double-Sheets into a Half Helmet, then welding the two halves together and adding a lens for the visor in front."
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "hose",
+      "item": "tfcdivingbell:leather_hose",
+      "title": "Air Hoses",
+      "text": "Using some leather, it is possible to knap a hose, that will grant you, when on your offhand and equipped with a Diving Helmet, one meter depth where air does not deplete." 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "A single hose is very bad, but a stack of them are not! The most you can carry is 16 of them, granting 16 meters from the surface where oxygen is not a problem! The hose stack even allows you to breathe even if a solid surface is above you. the hose will 'pathfind' to the nearest oxygen source."
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "air_tank",
+      "item": "tfcdivingbell:airtanks/steel",
+      "title": "Air tanks",
+      "text": "For even deeper diving, an Air tank (or several) would be beneficial. As long as you have one in your offhand and a diving helm equipped, it will deplete the air inside instead of your own." 	
+    },
+    {
+		"type": "patchouli:text",
+		"text": "A tank starts as a Double Sheet that becomes a Cylinder in the anvil. Then, a Sheet needs to be welded to the Cylinder to close it off. Finally, weld a rod to it so you can use it to breathe."
+	},
+	{
+		"type": "patchouli:text",
+		"text": "Tanks come in Brass (lowest air), Steel, Black and Blue and Red Steel (highest air count). To refill a depleted air tank, place it on your normal hand, and use a bellows. It will refill fully in a while."
+	}
+	]
+	,
+	"read_by_default": true
+}

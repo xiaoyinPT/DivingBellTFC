@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/cylinder/steel"
+  },
+  "second_input": {
+    "item": "tfc:metal/sheet/steel"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/tank/steel"
+  },
+  "tier": 4
+}

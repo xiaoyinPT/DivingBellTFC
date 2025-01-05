@@ -1,0 +1,6 @@
+{
+	"parent": "tfcdivingbell:item/diving_helmet",
+	"textures": {
+		"0": "tfcdivingbell:item/diving_helmets/brass"
+	}
+}

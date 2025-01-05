@@ -1,0 +1,9 @@
+{
+	  "ingredient": {
+	    "item": "tfcdivingbell:parts/snorkel/rose_gold"
+	  },
+	  "heat_capacity": 2.857,
+  	  "forging_temperature": 576,
+ 	  "welding_temperature": 768
+}
+

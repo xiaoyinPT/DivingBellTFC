@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfcdivingbell:parts/tank/brass"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/brass"
+  },
+  "result": {
+    "item": "tfcdivingbell:airtanks/brass"
+  },
+  "tier": 2
+}

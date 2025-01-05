@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": {
+    "item": "tfcdivingbell:parts/goggles/brass",
+    "count": 1
+  },
+  "tier": 2,
+  "rules": [
+    "hit_any",
+    "draw_second_last",
+    "punch_any"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "tfcdivingbell:item/scuba_gear",
+	"textures": {
+		"0": "tfcdivingbell:item/scuba_gear",
+		"particle": "tfcdivingbell:item/scuba_gear"
+	}
+}

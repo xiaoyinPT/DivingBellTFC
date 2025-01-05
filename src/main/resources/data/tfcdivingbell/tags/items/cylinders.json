@@ -1,0 +1,10 @@
+{
+	"replace": false,
+  	"values": [
+    	"tfcdivingbell:parts/cylinder/brass",
+    	"tfcdivingbell:parts/cylinder/steel",
+    	"tfcdivingbell:parts/cylinder/black_steel",
+    	"tfcdivingbell:parts/cylinder/blue_steel",
+    	"tfcdivingbell:parts/cylinder/red_steel"
+  	]
+}
