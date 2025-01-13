@@ -1,0 +1,37 @@
+{
+	"item.tfcdivingbell.leather_hose" : "皮软管",
+	"item.tfcdivingbell.parts.goggles.brass" : "黄铜护目镜(未完成)",
+	"item.tfcdivingbell.parts.snorkel.brass" : "黄铜潜水镜(未完成)",
+	"item.tfcdivingbell.snorkels.brass" : "黄铜潜水镜",
+	"item.tfcdivingbell.parts.diving_helmet_half.brass" : "黄铜潜水头盔 (半个)",
+	"item.tfcdivingbell.parts.diving_helmet.brass" : "黄铜潜水头盔 (未完成)",
+	"item.tfcdivingbell.diving_helmets.brass" : "黄铜潜水头盔",
+	"item.tfcdivingbell.parts.cylinder.brass" : "黄铜圆筒",
+	"item.tfcdivingbell.parts.tank.brass" : "黄铜气罐(未完成)",
+	"item.tfcdivingbell.airtanks.brass" : "黄铜气罐",
+	
+	"item.tfcdivingbell.parts.goggles.rose_gold" : "玫瑰金护目镜(未完成)",
+	"item.tfcdivingbell.parts.snorkel.rose_gold" : "玫瑰金潜水镜(未完成)",
+	"item.tfcdivingbell.snorkels.rose_gold" : "玫瑰金潜水镜",
+	
+	"item.tfcdivingbell.parts.goggles.sterling_silver" : "纹银护目镜(未完成)",
+	"item.tfcdivingbell.parts.snorkel.sterling_silver" : "纹银潜水镜(未完成)",
+	"item.tfcdivingbell.snorkels.sterling_silver" : "纹银潜水镜",
+	
+	
+	"item.tfcdivingbell.parts.cylinder.steel" : "钢圆筒",
+	"item.tfcdivingbell.parts.tank.steel" : "钢气罐(未完成)",
+	"item.tfcdivingbell.airtanks.steel" : "钢气罐",
+	
+	"item.tfcdivingbell.parts.cylinder.black_steel" : "黑钢圆筒",
+	"item.tfcdivingbell.parts.tank.black_steel" : "黑钢气罐(未完成)",
+	"item.tfcdivingbell.airtanks.black_steel" : "黑钢气罐",
+	
+	"item.tfcdivingbell.parts.cylinder.blue_steel" : "蓝钢圆筒",
+	"item.tfcdivingbell.parts.tank.blue_steel" : "蓝钢气罐(未完成)",
+	"item.tfcdivingbell.airtanks.blue_steel" : "蓝钢气罐",
+	
+	"item.tfcdivingbell.parts.cylinder.red_steel" : "红钢圆筒",
+	"item.tfcdivingbell.parts.tank.red_steel" : "红钢气罐(未完成)",
+	"item.tfcdivingbell.airtanks.red_steel" : "红钢气罐"
+}
