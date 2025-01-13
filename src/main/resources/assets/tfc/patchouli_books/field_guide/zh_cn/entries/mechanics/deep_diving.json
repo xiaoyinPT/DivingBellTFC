@@ -1,0 +1,46 @@
+{
+	"name": "深潜",
+	"category": "tfc:mechanics",
+	"icon": "tfcdivingbell:diving_helmets/brass",
+	"pages" : [
+	{
+      "type": "patchouli:spotlight",
+      "anchor": "diving_helm",
+      "item": "tfcdivingbell:diving_helmets/brass",
+      "title": "潜水头盔",
+      "text": "对于深度大于五格的潜水，使用潜水镜会变得很困难。使用潜水头盔和一些非手持物品可以让你潜的更深。" 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "潜水头盔需要你将两个用双层薄板锻造而成的半个头盔焊在一起，再安装一个玻璃镜片制成。"
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "hose",
+      "item": "tfcdivingbell:leather_hose",
+      "title": "换气管",
+      "text": "用皮革可以塑型出一些软管，它能让你戴着潜水头盔且副手拿着它时在水下一格深的地方换气。" 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "一根软管的性能糟透了，但你可以多来几根。最多堆叠16个的软管能让你在水下最深16格的地方仍能够正常换气！即使头上有固体方块也不成问题，软管会自动寻找附近最近的气室。"
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "air_tank",
+      "item": "tfcdivingbell:airtanks/steel",
+      "title": "气罐",
+      "text": "对于更深的水域，一个或几个气罐将会很有用。当你戴着潜水头盔且副手持有气罐时，呼吸将会优先消耗气罐中的空气而非你自己的。若你在使用气罐呼吸，视觉上你副手的气罐将会缓慢消耗耐久。" 	
+    },
+    {
+		"type": "patchouli:text",
+		"text": "一个气罐从一个由双层薄板锻造成的圆筒开始。之后你需要再焊上一个薄板来将其密封，最后再焊接一根棒子来让你能够使用它呼吸。"
+	},
+	{
+		"type": "patchouli:text",
+		"text": "气罐从黄铜，到钢、红蓝钢，其空气储量将逐步提升。要填充耗尽的气罐，将其放在主手右键风箱即可。"
+	}
+	]
+	,
+	"read_by_default": true
+}
