@@ -1,0 +1,39 @@
+{
+	"name": "浮潜",
+	"category": "tfc:mechanics",
+	"icon": "tfcdivingbell:snorkels/brass",
+	"pages" : [
+	{
+		"type": "patchouli:text",
+		"text": "无论是捕鱼还是挖掘沉积物，在浅水区潜水都能带来较为可观的收益。不过，你能够在水里待的时间却非常有限。"
+	},
+	{
+		"type": "patchouli:text",
+		"text": "本章将探讨在浅水区，泛指深度五格以内水域的潜水。有两样东西能够帮助你潜得更久，还能够在水下换气。"
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "breathing_reeds",
+      "item": "tfc:ceramic_blowpipe",
+      "title": "Breathing Reed",
+      "text": "虽然群峦传说中没有芦苇管，但是放在副手的陶瓷或黄铜吹管可以让你在离水面两格以内的水下换气。这意味在那个深度附近你的氧气值不会消耗，反而会缓慢恢复。" 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "在获得青铜之前，你就只能用陶瓷吹管换气了。"
+	},
+	{
+      "type": "patchouli:spotlight",
+       "anchor": "snorkels",
+      "item": "tfcdivingbell:snorkels/brass",
+      "title": "Snorkeling",
+      "text": "当你获得青铜之后，就可以用纹银、玫瑰金或者黄铜锭锻造一个护目镜了。在护目镜上焊接对应金属的棒，并安装上玻璃镜片就得到了潜水镜。" 	
+    },
+	{
+		"type": "patchouli:text",
+		"text": "潜水镜可以装备在头上，这解放了你的副手。同时其换气深度也增加了一格，这使得你可以在水面三格以下的地方换气。"
+	}
+	]
+	,
+	"read_by_default": true
+}
